@@ -10,8 +10,8 @@ def link(warning = "It's Dangerous To Go Alone! Take This.")
   puts warning
 end
 
-def all_phrases
-  mario(phrase)
-  toadstool(status)
-  link(warning)
+def all_phrases(mario, toadstool, link)
+  puts mario
+  puts toadstool
+  puts link
 end
