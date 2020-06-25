@@ -14,5 +14,4 @@ def all_phrases
   mario(phrase)
   toadstool(status)
   link(warning)
-  
 end
